@@ -1,3 +1,6 @@
 com.vaadin.integration.eclipse.useLatestNightly=false
+<<<<<<< HEAD
 com.vaadin.integration.eclipse.widgetsetDirty=false
+=======
+>>>>>>> 907b2617e5b794fbe432851303b5c54baad55bb9
 eclipse.preferences.version=1

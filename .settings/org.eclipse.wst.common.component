@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="Chatterbox">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="Chatterbox"/>
         <property name="java-output-path" value="/Chatterbox/build/classes"/>
+=======
+    <wb-module deploy-name="ChatterBox">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ChatterBox"/>
+        <property name="java-output-path" value="/ChatterBox/build/classes"/>
+>>>>>>> 907b2617e5b794fbe432851303b5c54baad55bb9
     </wb-module>
 </project-modules>
